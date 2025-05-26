@@ -1,0 +1,11 @@
+2025-04-11 14:47:38,555 - Server started and listening on 0.0.0.0:9000
+2025-04-11 14:47:54,049 - Connection established with ('127.0.0.1', 48668)
+2025-04-11 14:48:04,435 - Server started and listening on 127.0.0.2:8001
+2025-04-11 14:48:23,992 - Connection established with ('127.0.0.1', 45236)
+2025-04-11 14:48:37,758 - Operation from ('127.0.0.1', 48668): b'+ 2 3' -> Result: 5
+2025-04-11 14:48:52,007 - Operation from ('127.0.0.1', 48668): b'* 7 8' -> Result: 56
+2025-04-11 14:49:06,562 - Connection closed for ('127.0.0.1', 48668)
+2025-04-11 14:49:16,550 - Operation from ('127.0.0.1', 45236): b'** 2 3' -> Result: 8
+2025-04-11 14:49:19,412 - Operation from ('127.0.0.1', 45236): b'/ 4 2' -> Result: 2.0
+2025-04-11 14:49:24,544 - Operation from ('127.0.0.1', 45236): b'% 5 2' -> Result: 1
+2025-04-11 14:49:26,246 - Connection closed for ('127.0.0.1', 45236)
