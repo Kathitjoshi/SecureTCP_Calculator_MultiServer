@@ -20,6 +20,8 @@
   
 * The user begins the server by providing IP and port.
 * A client begins and prompts the user for the server's IP and the port to attach.
+
+**Commands to run Server and Client on a Linux Distro terminal - refer to the screenshots in the pdf file uploaded.**
 * The user input from the client is in the format <operator>  <num1>  <num2> (i.e., / 7 5 for 7/5 result).
 * The command is transmitted securely on the network to the server.
 * The server computes the calculation and returns the result.
